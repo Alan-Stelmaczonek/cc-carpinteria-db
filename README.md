@@ -19,6 +19,7 @@ Sistema de base de datos relacional desarrollado como proyecto académico para u
 ## Estructura del Proyecto
 
 /docs        -> Documentación del proyecto
+
 /sql
   /schema    -> Esquema de la base de datos
   
