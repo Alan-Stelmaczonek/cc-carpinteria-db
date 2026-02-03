@@ -21,8 +21,11 @@ Sistema de base de datos relacional desarrollado como proyecto académico para u
 /docs        -> Documentación del proyecto
 /sql
   /schema    -> Esquema de la base de datos
+  
   /queries   -> Consultas SQL
+  
   /views     -> Vistas
+  
   /triggers  -> Triggers y procedimientos
 
 ## Mi Rol
