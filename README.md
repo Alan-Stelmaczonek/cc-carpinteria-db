@@ -17,3 +17,26 @@ Sistema de base de datos relacional desarrollado como proyecto académico para u
 - Reglas de integridad y validaciones de datos
 
 ## Estructura del Proyecto
+
+/docs        -> Documentación del proyecto
+/sql
+  /schema    -> Esquema de la base de datos
+  /queries   -> Consultas SQL
+  /views     -> Vistas
+  /triggers  -> Triggers y procedimientos
+
+## Mi Rol
+**DevOps Engineer**
+- Configuración del entorno
+- Organización y control de versiones en GitHub
+- Validación técnica y pruebas
+- Soporte en la documentación técnica
+
+## Metodología de Trabajo
+El proyecto fue desarrollado utilizando el marco de trabajo Scrum, organizado en sprints, con seguimiento de tareas y documentación mediante Trello.
+
+## Nota
+Proyecto desarrollado en equipo como parte de un trabajo universitario.  
+Las distintas etapas del desarrollo y aportes se encuentran documentados mediante commits en GitHub y la organización por sprints.
+
+
