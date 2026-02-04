@@ -42,5 +42,6 @@ El proyecto fue desarrollado utilizando el marco de trabajo Scrum, organizado en
 ## Nota
 Proyecto desarrollado en equipo como parte de un trabajo universitario.  
 Las distintas etapas del desarrollo y aportes se encuentran documentados mediante commits en GitHub y la organización por sprints.
+Link Trello: https://trello.com/invite/b/690ceb17aa3064bf8ee51935/ATTIcf6b195b8df6ef0ee333507055c57e4bD2F54BCF/cc-carpinteria-del-sur
 
 
